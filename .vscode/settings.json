@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "stack": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "tuple": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "xutility": "cpp",
+        "xtree": "cpp"
+    },
+    "java.project.sourcePaths": [
+        "bronze/hoofball/src",
+        "bronze/art/src",
+        "bronze/hoofball"
+    ]
+}
